@@ -2,3 +2,12 @@
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
+
+.blk-btn {
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+.ylw-btn {
+    background: #ffff00;
+}
